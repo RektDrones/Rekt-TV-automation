@@ -2,7 +2,7 @@
 
 ![The producer&apos;s view in Sofie](https://raw.githubusercontent.com/nrkno/Sofie-TV-automation/master/images/Sofie_GUI_example.jpg)
 
-_**Rekt TV**_ is a web-based TV network that consists of drone-related live shows, racing, and more hosted by **Rekt Drones**[ ](https://www.rektdrones.com/)since 2018.
+_**Rekt TV**_ is a web-based TV network that consists of drone-related live shows, racing, and more hosted by **Rekt Drones**[ ](https://www.rektdrones.com/)since 2020.
 
 ## Key Features
 
